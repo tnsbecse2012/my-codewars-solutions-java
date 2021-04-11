@@ -42,7 +42,7 @@ public class VasyaClerk {
 }
 
 /**
- * Question:
+ * Question: VasyaClerk
  * 
  * The new "Avengers" movie has just been released! There are a lot of people at
  * the cinema box office standing in a huge line. Each of them has a single 100,
