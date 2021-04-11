@@ -25,7 +25,7 @@ public class TribonacciSequence {
 }
 
 /**
- * Question:
+ * Question: TribonacciSequence
  * 
  * Well met with Fibonacci bigger brother, AKA Tribonacci.
  * 
